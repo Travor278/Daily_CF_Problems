@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105930E](https://codeforces.com/gym/105930/problem/E) | What should the answer satisfy? And what's the condition to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1231/solution/cf105930e.md) |
-| *1900 | [GYM105948H](https://codeforces.com/gym/105948/problem/H) | Reconsider the condition that the element counted in the ratio should satisfy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1231/solution/cf105948h.md) |
+| *1600 | [GYM104468M](https://codeforces.com/gym/104468/problem/M) | What are the actual conditions that must be satisfied? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0102/solution/cf104468m.md) |
+| *1900 | [GYM104468A](https://codeforces.com/gym/104468/problem/A) | Each position has two choices, so the problem seems a classic problem about finding a valid combination of YES-s or NO-s.  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0102/solution/cf104468a.md) |
